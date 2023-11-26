@@ -88,7 +88,7 @@ Link | |
 | [Hover](https://land-book.com/) | |
 | [Frontend Mentor](https://www.frontendmentor.io/) | |
 | [Awwwards](https://www.awwwards.com/) | |
-| [codrops](https://tympanus.net/codrops/) | |
+| [Codrops](https://tympanus.net/codrops/) | |
 | [Screen Lane](https://screenlane.com/) | |
 | [Lapa](https://www.lapa.ninja/) | |
 
