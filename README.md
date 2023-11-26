@@ -91,9 +91,37 @@ Link | |
 | [Codrops](https://tympanus.net/codrops/) | |
 | [Screen Lane](https://screenlane.com/) | |
 | [Lapa](https://www.lapa.ninja/) | |
+| [Media Queri](https://mediaqueri.es/) | |
+| [Web Design](https://www.webdesign-inspiration.com/) | |
+| [UI Garage](https://uigarage.net/) | |
 
 
 **[⬆ Voltar para o indice](#indice)**
+
+## <a id="uikits"></a> Desafios
+Link | | 
+|---|---|
+| [Hacker Rank](https://www.hackerrank.com/) | |
+| [Code Wars](https://www.codewars.com/) | |
+| [Flexbox Froggy](https://flexboxfroggy.com/) | |
+| [Flexbox Defense](http://www.flexboxdefense.com/) | |
+| [Frontend Mentor](https://www.frontendmentor.io/challenges) | |
+
+**[⬆ Voltar para o indice](#indice)**
+
+## <a id="uikits"></a> UI Kits
+Link | | 
+|---|---|
+| [UI Deck](https://uideck.com/) | |
+| [Splawr](https://splawr.com/) | |
+| [W3 Layouts](https://w3layouts.com/) | |
+| [Bootstrap Taste](https://bootstraptaste.com/) | |
+| [Ecomm Design](https://ecomm.design/ecommerce-website-templates/) | |
+| [Cruip](https://cruip.com/free-templates/) | |
+| [Start Bootstrap](https://startbootstrap.com/) | |
+
+**[⬆ Voltar para o indice](#indice)**
+
 
 🚧 Em Construção 🚧
 
