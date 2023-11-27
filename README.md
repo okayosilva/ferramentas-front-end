@@ -40,7 +40,7 @@ Link | |
 | [Colorable](https://colorable.jxnblk.com/0c345a/00ffa2) | |
 | [Khroma](https://www.khroma.co/) | |
 | [0to255](https://0to255.com/) | |
-| [Coolors](https://0to255.com/](https://coolors.co/)) | |
+| [Coolors](https://coolors.co/)) | |
 
 **[⬆ Voltar para o indice](#indice)**
 
@@ -58,7 +58,7 @@ Link | |
 | [Font Awesome](https://fontawesome.com/) | |
 | [Icon Finder](https://www.iconfinder.com/) | |
 | [Css](https://css.gg/) | |
-| [iIcon scout](https://css.gg/](https://iconscout.com/)) | |
+| [Icon scout](https://iconscout.com/) | |
 
 
 **[⬆ Voltar para o indice](#indice)**
