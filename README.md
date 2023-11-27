@@ -137,6 +137,15 @@ Link | |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## <a id="hospedagens"></a> Hospedagens
+Link | | 
+|---|---|
+| [Vercel](https://vercel.com/) | |
+| [Netlify](https://www.netlify.com/) | |
+| [Github Pages](https://pages.github.com/) | |
+
+**[⬆ Voltar para o indice](#indice)**
+
 
 🚧 Em Construção 🚧
 
