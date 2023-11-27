@@ -108,6 +108,7 @@ Link | |
 | [Flexbox Froggy](https://flexboxfroggy.com/) | |
 | [Flexbox Defense](http://www.flexboxdefense.com/) | |
 | [Frontend Mentor](https://www.frontendmentor.io/challenges) | |
+| [Codante](https://codante.io/) | |
 
 **[⬆ Voltar para o indice](#indice)**
 
