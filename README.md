@@ -41,6 +41,7 @@ Link | |
 | [Khroma](https://www.khroma.co/) | |
 | [0to255](https://0to255.com/) | |
 | [Coolors](https://coolors.co/) | |
+| [Radix UI Colors](https://www.radix-ui.com/colors/docs/overview/installation) | |
 
 **[⬆ Voltar para o indice](#indice)**
 
@@ -96,6 +97,7 @@ Link | |
 | [Media Queri](https://mediaqueri.es/) | |
 | [Web Design](https://www.webdesign-inspiration.com/) | |
 | [UI Garage](https://uigarage.net/) | |
+| [Rauno](https://rauno.me/craft) | |
 
 
 **[⬆ Voltar para o indice](#indice)**
