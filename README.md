@@ -16,6 +16,7 @@ Interessado em contribuir para o projeto? Faça um fork e abra um Pull Request. 
 * [Cores](#cores)
 * [Ícones](#icones)
 * [CSS](#css)
+* [Sombras](#sombras)
 * [Inspirações](#inspiracoes)
 * [Fontes](#fontes)
 * [Extensões do chrome](#extensoes)
@@ -77,6 +78,15 @@ Link | |
 | [Image Hover](http://imagehover.io/) | |
 | [zzz](https://zzz.dog/) | |
 | [Csshake](https://elrumordelaluz.github.io/csshake/) | |
+
+
+**[⬆ Voltar para o indice](#indice)**
+
+## <a id="sombras"></a> Sombras
+Link | | 
+|---|---|
+| [Smooth Shadow](https://shadows.brumm.af/) | |
+
 
 
 **[⬆ Voltar para o indice](#indice)**
