@@ -16,6 +16,7 @@ Interessado em contribuir para o projeto? Faça um fork e abra um Pull Request. 
 * [Cores](#cores)
 * [Ícones](#icones)
 * [CSS](#css)
+* Ferramentas para Design(#ferramentasdesign)
 * [Sombras](#sombras)
 * [Inspirações](#inspiracoes)
 * [Fontes](#fontes)
@@ -24,7 +25,6 @@ Interessado em contribuir para o projeto? Faça um fork e abra um Pull Request. 
 * [Desafios](#desafios)
 * [UI Kits](#uikits)
 * [Imagens](#imagens)
-* [Remove Background](#removeBg)
 
 
 ## <a id="cores"></a> Cores
@@ -78,6 +78,42 @@ Link | |
 | [Image Hover](http://imagehover.io/) | |
 | [zzz](https://zzz.dog/) | |
 | [Csshake](https://elrumordelaluz.github.io/csshake/) | |
+
+
+**[⬆ Voltar para o indice](#indice)**
+
+## <a id="ferramentasdesign"></a> Ferramentas para Design
+Link | | 
+|---|---|
+| [Vectr](https://vectr.com/) | |
+| [Taler](https://www.taler.app/) | |
+| [Canva](https://www.canva.com/pt_br/) | |
+| [Get Waves](https://getwaves.io/) | |
+| [Bennett Feely](https://bennettfeely.com/clippy/) | |
+| [POINT FULL CONTROL](https://9elements.github.io/fancy-border-radius/full-control.html) | |
+| [Fotor](https://www.fotor.com/) | |
+| [VEED.IO](https://www.veed.io/tools/video-editor) | |
+| [Remove BG](https://www.remove.bg/pt-br) | |
+| [Whimsical](https://whimsical.com/) | |
+| [Octopus](https://octopus.do/) | |
+| [Click Minded](https://www.clickminded.com/button-generator/) | |
+| [Blob Maker](https://www.blobmaker.app/) | |
+| [Photopea](https://www.photopea.com/) | |
+| [Diagrams](https://www.diagrams.net/) | |
+| [Grid Malven](https://grid.malven.co/) | |
+| [Flexbox Malven](https://flexbox.malven.co/) | |
+| [Neumorphism](https://neumorphism.io/#55b9f3) | |
+| [DB Designer](https://www.dbdesigner.net/) | |
+| [UI Bakery](https://uibakery.io/) | |
+| [CSS Arrow Please](https://cssarrowplease.com/) | |
+| [Glass UI](https://ui.glass/generator) | |
+| [Glassmorphism Generator](https://hype4.academy/tools/glassmorphism-generator) | |
+| [Laws of UX](https://lawsofux.com/) | |
+| [Checklist Design](https://www.checklist.design/) | |
+| [Tiny Png](https://tinypng.com/) | |
+| [Image Compressor](https://imagecompressor.com/) | |
+| [Compressor](https://compressor.io/) | |
+| [Squoosh](https://squoosh.app/) | |
 
 
 **[⬆ Voltar para o indice](#indice)**
