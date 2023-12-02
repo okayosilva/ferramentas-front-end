@@ -16,7 +16,7 @@ Interessado em contribuir para o projeto? Faça um fork e abra um Pull Request. 
 * [Cores](#cores)
 * [Ícones](#icones)
 * [CSS](#css)
-* Ferramentas para Design(#ferramentasdesign)
+* [Ferramentas para Design](#ferramentasdesign)
 * [Sombras](#sombras)
 * [Inspirações](#inspiracoes)
 * [Fontes](#fontes)
