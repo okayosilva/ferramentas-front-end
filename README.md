@@ -148,6 +148,14 @@ Link | |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## <a id="fontes"></a> Fontes
+Link | | 
+|---|---|
+| [Google Fonts](https://fonts.google.com/) | |
+| [Adobe Fonts](https://fonts.adobe.com/) | |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## <a id="desafios"></a> Desafios
 Link | | 
 |---|---|
