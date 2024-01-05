@@ -20,11 +20,13 @@ Interessado em contribuir para o projeto? Faça um fork e abra um Pull Request. 
 * [Sombras](#sombras)
 * [Inspirações](#inspiracoes)
 * [Fontes](#fontes)
+* [Animações - JS](#animacoesjs)
 * [Extensões do chrome](#extensoes)
 * [Hospedagens](#hospedagens)
 * [Desafios](#desafios)
 * [UI Kits](#uikits)
 * [Imagens](#imagens)
+* [Plugins Figma](#pluginsfigma)
 
 
 ## <a id="cores"></a> Cores
@@ -156,6 +158,19 @@ Link | |
 
 **[⬆ Voltar para o indice](#indice)**
 
+## <a id="animacoesjs"></a> Animações - JS
+Link | | 
+|---|---|
+| [Swiper](https://swiperjs.com/) | |
+| [barba](https://barba.js.org/) | |
+| [slick](https://kenwheeler.github.io/slick/) | |
+| [Particles](https://vincentgarreau.com/particles.js/) | |
+| [Tilt](https://gijsroge.github.io/tilt.js/) | |
+| [GSAP](https://gsap.com/) | |
+| [mo.js](https://mojs.github.io/) | |
+
+**[⬆ Voltar para o indice](#indice)**
+
 ## <a id="desafios"></a> Desafios
 Link | | 
 |---|---|
@@ -201,6 +216,13 @@ Link | |
 | [Vercel](https://vercel.com/) | |
 | [Netlify](https://www.netlify.com/) | |
 | [Github Pages](https://pages.github.com/) | |
+
+**[⬆ Voltar para o indice](#indice)**
+
+## <a id="pluginsfigma"></a> Plugins Figma
+Link | | 
+|---|---|
+| [Vercel](https://vercel.com/) | |
 
 **[⬆ Voltar para o indice](#indice)**
 
