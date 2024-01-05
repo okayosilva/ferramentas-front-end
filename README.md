@@ -168,6 +168,7 @@ Link | |
 | [Tilt](https://gijsroge.github.io/tilt.js/) | |
 | [GSAP](https://gsap.com/) | |
 | [mo.js](https://mojs.github.io/) | |
+| [shadcn](https://ui.shadcn.com/) | |
 
 **[⬆ Voltar para o indice](#indice)**
 
