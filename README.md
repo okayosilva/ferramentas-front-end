@@ -222,7 +222,17 @@ Link | |
 ## <a id="pluginsfigma"></a> Plugins Figma
 Link | | 
 |---|---|
-| [Vercel](https://vercel.com/) | |
+| [Shadowkit](https://www.figma.com/community/plugin/744987207861965946) | |
+| [Blobs](https://www.figma.com/community/plugin/739208439270091369) | |
+| [Content Reel](https://www.figma.com/community/plugin/731627216655469013) | |
+| [Brandfetch](https://www.figma.com/community/plugin/733590967040604714) | |
+| [Stark - Contrast & Accessibility Tools](https://www.figma.com/community/plugin/732603254453395948) | |
+| [Color Palettes](https://www.figma.com/community/plugin/740832935938649295) | |
+| [Autoflow](https://www.figma.com/community/plugin/733902567457592893) | |
+| [UI Faces](https://www.figma.com/community/plugin/769664006254845172) | |
+| [Calendar - Auto Layout](https://www.figma.com/community/file/806493111803401210) | |
+| [Contra Wireframe Kit](https://www.figma.com/community/file/833515051385038928) | |
+| [MEMOJI](https://www.figma.com/community/file/895239514338276669) | |
 
 **[⬆ Voltar para o indice](#indice)**
 
