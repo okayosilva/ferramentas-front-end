@@ -195,7 +195,7 @@ Link | |
 | [Cruip](https://cruip.com/free-templates/) | |
 | [Start Bootstrap](https://startbootstrap.com/) | |
 | [Spline Sesign](https://spline.design/) | |
-| [tremor](https://www.tremor.so/) | |
+| [Tremor](https://www.tremor.so/) | |
 
 **[⬆ Voltar para o indice](#indice)**
 
