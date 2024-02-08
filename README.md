@@ -124,6 +124,7 @@ Link | |
 Link | | 
 |---|---|
 | [Smooth Shadow](https://shadows.brumm.af/) | |
+| [CSS Scan](https://getcssscan.com/css-box-shadow-examples) | |
 
 
 
