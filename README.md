@@ -44,7 +44,7 @@ Link | |
 | [Khroma](https://www.khroma.co/) | |
 | [0to255](https://0to255.com/) | |
 | [Coolors](https://coolors.co/) | |
-| [Radix UI Colors](https://www.radix-ui.com/colors/docs/overview/installation) | |
+| [Radix  Colors](https://www.radix-.com/colors/docs/overview/installation) | |
 
 **[⬆ Voltar para o indice](#indice)**
 
@@ -169,7 +169,6 @@ Link | |
 | [Tilt](https://gijsroge.github.io/tilt.js/) | |
 | [GSAP](https://gsap.com/) | |
 | [mo.js](https://mojs.github.io/) | |
-| [shadcn](https://ui.shadcn.com/) | |
 
 **[⬆ Voltar para o indice](#indice)**
 
@@ -197,6 +196,8 @@ Link | |
 | [Start Bootstrap](https://startbootstrap.com/) | |
 | [Spline Sesign](https://spline.design/) | |
 | [Tremor](https://www.tremor.so/) | |
+| [shadcn](https://ui.shadcn.com/) | |
+| [Next UI](https://nextui.org/) | |
 
 **[⬆ Voltar para o indice](#indice)**
 
