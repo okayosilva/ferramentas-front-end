@@ -45,6 +45,8 @@ Link | |
 | [0to255](https://0to255.com/) | |
 | [Coolors](https://coolors.co/) | |
 | [Radix  Colors](https://www.radix-.com/colors/docs/overview/installation) | |
+| [UI Colors](https://uicolors.app/create) | |
+| [Open Color](https://yeun.github.io/open-color/) | |
 
 **[⬆ Voltar para o indice](#indice)**
 
@@ -211,6 +213,7 @@ Link | |
 | [Foodiesfeed](https://www.foodiesfeed.com/) | |
 | [Freepik](https://br.freepik.com/) | |
 | [Picography](https://picography.co/) | |
+| [Logo To Use](https://www.logotouse.com/) | |
 
 **[⬆ Voltar para o indice](#indice)**
 
