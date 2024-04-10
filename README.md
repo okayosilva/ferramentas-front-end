@@ -149,6 +149,8 @@ Link | |
 | [Web Design](https://www.webdesign-inspiration.com/) | |
 | [UI Garage](https://uigarage.net/) | |
 | [Rauno](https://rauno.me/craft) | |
+| [mobbin](https://mobbin.com/browse/web/apps) | |
+| [uxcel](https://uxcel.com/) | |
 
 
 **[⬆ Voltar para o indice](#indice)**
