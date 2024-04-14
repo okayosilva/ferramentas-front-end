@@ -47,6 +47,7 @@ Link | |
 | [Radix  Colors](https://www.radix-.com/colors/docs/overview/installation) | |
 | [UI Colors](https://uicolors.app/create) | |
 | [Open Color](https://yeun.github.io/open-color/) | |
+| [Happy Hues](https://www.happyhues.co/palettes/14) | |
 
 **[⬆ Voltar para o indice](#indice)**
 
@@ -151,6 +152,7 @@ Link | |
 | [Rauno](https://rauno.me/craft) | |
 | [mobbin](https://mobbin.com/browse/web/apps) | |
 | [uxcel](https://uxcel.com/) | |
+| [storyset](https://storyset.com/) | |
 
 
 **[⬆ Voltar para o indice](#indice)**
