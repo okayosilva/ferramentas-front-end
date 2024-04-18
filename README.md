@@ -204,6 +204,7 @@ Link | |
 | [Tremor](https://www.tremor.so/) | |
 | [shadcn](https://ui.shadcn.com/) | |
 | [Next UI](https://nextui.org/) | |
+| [uplabs](https://www.uplabs.com/) | |
 
 **[⬆ Voltar para o indice](#indice)**
 
