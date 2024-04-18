@@ -129,7 +129,6 @@ Link | |
 | [CSS Scan](https://getcssscan.com/css-box-shadow-examples) | |
 
 
-
 **[⬆ Voltar para o indice](#indice)**
 
 ## <a id="inspiracoes"></a> Inspirações
