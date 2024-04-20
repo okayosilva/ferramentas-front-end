@@ -19,6 +19,7 @@ Interessado em contribuir para o projeto? Faça um fork e abra um Pull Request. 
 * [Sombras](#sombras)
 * [Inspirações](#inspiracoes)
 * [Fontes](#fontes)
+* [Ferramentas](#ferramentas)
 * [Animações - JS](#animacoesjs)
 * [Extensões do chrome](#extensoes)
 * [Hospedagens](#hospedagens)
@@ -65,6 +66,7 @@ Link | |
 | [Icon Finder](https://www.iconfinder.com/) | |
 | [Css](https://css.gg/) | |
 | [Icon scout](https://iconscout.com/) | |
+| [Lucide React](https://lucide.dev/) | |
 
 
 **[⬆ Voltar para o indice](#indice)**
@@ -160,6 +162,15 @@ Link | |
 |---|---|
 | [Google Fonts](https://fonts.google.com/) | |
 | [Adobe Fonts](https://fonts.adobe.com/) | |
+
+**[⬆ Voltar para o indice](#indice)**
+
+**[⬆ Voltar para o indice](#indice)**
+
+## <a id="ferramentas"></a> Ferramentas
+Link | | 
+|---|---|
+| [PX to REM ](https://nekocalc.com/px-to-rem-converter) | |
 
 **[⬆ Voltar para o indice](#indice)**
 
