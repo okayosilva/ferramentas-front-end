@@ -44,7 +44,7 @@ Link | |
 | [Khroma](https://www.khroma.co/) | |
 | [0to255](https://0to255.com/) | |
 | [Coolors](https://coolors.co/) | |
-| [Radix  Colors](https://www.radix-.com/colors/docs/overview/installation) | |
+| [Radix UI Colors](https://www.radix-ui.com/colors/custom) | |
 | [UI Colors](https://uicolors.app/create) | |
 | [Open Color](https://yeun.github.io/open-color/) | |
 | [Happy Hues](https://www.happyhues.co/palettes/14) | |
