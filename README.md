@@ -6,7 +6,7 @@ Este repositório foi criado com o objetivo de auxiliar você, desenvolvedor. Mu
 
 Neste espaço, disponibilizarei as ferramentas que mais utilizo em diversas situações, sempre provando-se muito úteis. Espero que esses recursos facilitem o seu trabalho. ❤️
 
-## Contibuições
+## Contribuições
 
 Interessado em contribuir para o projeto? Faça um fork e abra um Pull Request. Vamos nessa! 👊🏽
 
