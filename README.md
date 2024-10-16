@@ -25,6 +25,7 @@ Interessado em contribuir para o projeto? Faça um fork e abra um Pull Request. 
 * [Hospedagens](#hospedagens)
 * [Desafios](#desafios)
 * [UI Kits](#uikits)
+* [Design](#design)
 * [Imagens](#imagens)
 * [Plugins Figma](#pluginsfigma)
 
@@ -214,6 +215,16 @@ Link | |
 | [shadcn](https://ui.shadcn.com/) | |
 | [Next UI](https://nextui.org/) | |
 | [uplabs](https://www.uplabs.com/) | |
+
+## <a id="design"></a> Design
+Link | | 
+|---|---|
+| [AB Test](https://abtest.design/) | |
+| [Apple spells](https://www.designspells.com/?tag=apple) | |
+| [Design Systems](https://designsystems.surf/design-systems/alaskaairlines) | |
+| [adapty](https://adapty.io/paywall-library/) | |
+| [Fontshare](https://fontshare.com/) | |
+
 
 **[⬆ Voltar para o indice](#indice)**
 
