@@ -10,7 +10,7 @@ Neste espaço, disponibilizarei as ferramentas que mais utilizo em diversas situ
 
 Interessado em contribuir para o projeto? Faça um fork e abra um Pull Request. Vamos nessa! 👊🏽
 
-## indice
+## Índice
 
 * [Cores](#cores)
 * [Ícones](#icones)
@@ -50,7 +50,7 @@ Link | |
 | [Open Color](https://yeun.github.io/open-color/) | |
 | [Happy Hues](https://www.happyhues.co/palettes/14) | |
 
-**[⬆ Voltar para o indice](#indice)**
+**[⬆ Voltar para o índice](#índice)**
 
 ## <a id="icones"></a> Ícones
 Link | | 
@@ -70,7 +70,7 @@ Link | |
 | [Lucide React](https://lucide.dev/) | |
 
 
-**[⬆ Voltar para o indice](#indice)**
+**[⬆ Voltar para o índice](#índice)**
 
 ## <a id="css"></a> CSS
 Link | | 
@@ -87,7 +87,7 @@ Link | |
 | [Csshake](https://elrumordelaluz.github.io/csshake/) | |
 
 
-**[⬆ Voltar para o indice](#indice)**
+**[⬆ Voltar para o índice](#índice)**
 
 ## <a id="ferramentasdesign"></a> Ferramentas para Design
 Link | | 
@@ -123,7 +123,7 @@ Link | |
 | [Squoosh](https://squoosh.app/) | |
 
 
-**[⬆ Voltar para o indice](#indice)**
+**[⬆ Voltar para o índice](#índice)**
 
 ## <a id="sombras"></a> Sombras
 Link | | 
@@ -132,7 +132,7 @@ Link | |
 | [CSS Scan](https://getcssscan.com/css-box-shadow-examples) | |
 
 
-**[⬆ Voltar para o indice](#indice)**
+**[⬆ Voltar para o índice](#índice)**
 
 ## <a id="inspiracoes"></a> Inspirações
 Link | | 
@@ -156,7 +156,7 @@ Link | |
 | [storyset](https://storyset.com/) | |
 
 
-**[⬆ Voltar para o indice](#indice)**
+**[⬆ Voltar para o índice](#índice)**
 
 ## <a id="fontes"></a> Fontes
 Link | | 
@@ -164,16 +164,16 @@ Link | |
 | [Google Fonts](https://fonts.google.com/) | |
 | [Adobe Fonts](https://fonts.adobe.com/) | |
 
-**[⬆ Voltar para o indice](#indice)**
+**[⬆ Voltar para o índice](#índice)**
 
-**[⬆ Voltar para o indice](#indice)**
+**[⬆ Voltar para o índice](#índice)**
 
 ## <a id="ferramentas"></a> Ferramentas
 Link | | 
 |---|---|
 | [PX to REM ](https://nekocalc.com/px-to-rem-converter) | |
 
-**[⬆ Voltar para o indice](#indice)**
+**[⬆ Voltar para o índice](#índice)**
 
 ## <a id="animacoesjs"></a> Animações - JS
 Link | | 
@@ -186,7 +186,7 @@ Link | |
 | [GSAP](https://gsap.com/) | |
 | [mo.js](https://mojs.github.io/) | |
 
-**[⬆ Voltar para o indice](#indice)**
+**[⬆ Voltar para o índice](#índice)**
 
 ## <a id="desafios"></a> Desafios
 Link | | 
@@ -198,7 +198,7 @@ Link | |
 | [Frontend Mentor](https://www.frontendmentor.io/challenges) | |
 | [Codante](https://codante.io/) | |
 
-**[⬆ Voltar para o indice](#indice)**
+**[⬆ Voltar para o índice](#índice)**
 
 ## <a id="uikits"></a> UI Kits
 Link | | 
@@ -212,9 +212,10 @@ Link | |
 | [Start Bootstrap](https://startbootstrap.com/) | |
 | [Spline Sesign](https://spline.design/) | |
 | [Tremor](https://www.tremor.so/) | |
-| [shadcn](https://ui.shadcn.com/) | |
+| [Shadcn](https://ui.shadcn.com/) | |
+| [Chakra UI](https://www.chakra-ui.com/) | |
 | [Next UI](https://nextui.org/) | |
-| [uplabs](https://www.uplabs.com/) | |
+| [Uplabs](https://www.uplabs.com/) | |
 
 ## <a id="design"></a> Design
 Link | | 
@@ -226,7 +227,7 @@ Link | |
 | [Fontshare](https://fontshare.com/) | |
 
 
-**[⬆ Voltar para o indice](#indice)**
+**[⬆ Voltar para o índice](#índice)**
 
 ## <a id="imagens"></a> Imagens
 Link | | 
@@ -239,17 +240,19 @@ Link | |
 | [Freepik](https://br.freepik.com/) | |
 | [Picography](https://picography.co/) | |
 | [Logo To Use](https://www.logotouse.com/) | |
+| [Tinypng](https://tinypng.com/) | |
 
-**[⬆ Voltar para o indice](#indice)**
+**[⬆ Voltar para o índice](#índice)**
 
 ## <a id="hospedagens"></a> Hospedagens
 Link | | 
 |---|---|
 | [Vercel](https://vercel.com/) | |
 | [Netlify](https://www.netlify.com/) | |
+| [SST](https://sst.dev/) ||
 | [Github Pages](https://pages.github.com/) | |
 
-**[⬆ Voltar para o indice](#indice)**
+**[⬆ Voltar para o índice](#índice)**
 
 ## <a id="pluginsfigma"></a> Plugins Figma
 Link | | 
@@ -266,7 +269,7 @@ Link | |
 | [Contra Wireframe Kit](https://www.figma.com/community/file/833515051385038928) | |
 | [MEMOJI](https://www.figma.com/community/file/895239514338276669) | |
 
-**[⬆ Voltar para o indice](#indice)**
+**[⬆ Voltar para o índice](#índice)**
 
 
 🚧 Em Construção 🚧
